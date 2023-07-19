@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/Tokens-grid.css'
+import '../styles/tokens-grid.css'
 
 interface TokensGridProps {
     tokens: Record<string, string>

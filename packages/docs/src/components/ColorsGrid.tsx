@@ -1,3 +1,4 @@
+import React from 'react'
 import { colors } from '@bookwise-ui/tokens'
 import { getContrast } from 'polished'
 

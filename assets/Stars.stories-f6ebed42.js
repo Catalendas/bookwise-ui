@@ -1,0 +1,2 @@
+import{S as s}from"./index-033ebe4b.js";import"./index-c0014c39.js";import"./_commonjsHelpers-042e6b4d.js";import"./extends-98964cd2.js";import"./jsx-runtime-29b531b7.js";const d={title:"Data display/Star",component:s,args:{}},r={};var t,a,o;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:"{}",...(o=(a=r.parameters)==null?void 0:a.docs)==null?void 0:o.source}}};const n=["Primary"];export{r as Primary,n as __namedExportsOrder,d as default};
+//# sourceMappingURL=Stars.stories-f6ebed42.js.map

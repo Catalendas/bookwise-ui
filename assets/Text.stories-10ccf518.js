@@ -1,0 +1,2 @@
+import{T as s}from"./index-033ebe4b.js";import"./index-c0014c39.js";import"./_commonjsHelpers-042e6b4d.js";import"./extends-98964cd2.js";import"./jsx-runtime-29b531b7.js";const n={title:"Typography/Text",component:s,args:{children:"Exemple text"}},r={};var e,t,o;r.parameters={...r.parameters,docs:{...(e=r.parameters)==null?void 0:e.docs,source:{originalSource:"{}",...(o=(t=r.parameters)==null?void 0:t.docs)==null?void 0:o.source}}};const d=["Primary"];export{r as Primary,d as __namedExportsOrder,n as default};
+//# sourceMappingURL=Text.stories-10ccf518.js.map
